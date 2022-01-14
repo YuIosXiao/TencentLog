@@ -68,3 +68,8 @@ class App : Application() {
 
 }
 ```
+```
+app的build.gradle中要引入
+implementation("com.google.protobuf:protobuf-java:3.13.0")
+implementation("com.google.protobuf:protobuf-java-util:3.13.0")
+```

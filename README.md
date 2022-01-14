@@ -1,0 +1,2 @@
+# TencentLog
+cls
